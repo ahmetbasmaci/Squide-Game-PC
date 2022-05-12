@@ -1,5 +1,5 @@
 # Squide-Game
-I converted the series to a real game
+I converted the series to a actualgame in which you can play the same series games but its more enjoyer
 
 <a href="https://www.mediafire.com/file/h803546w7hzq19q/Squid_Game.rar/file">Download The Game</a>
 
